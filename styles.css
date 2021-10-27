@@ -5,3 +5,11 @@ h1, h2 {
 body {
     font-family: helvetica neue, arial, sans-serif;
 }
+
+.center {
+    text-align: center;
+}
+
+iframe {
+    border: 0px;
+}
